@@ -24,4 +24,4 @@ A Moore FSM-based traffic light controller for a 2-road intersection, with pedes
 - **Traffic** — top-level module wiring datapath + control path together
 - **Traffic_TB** — testbench with clock generation, reset sequencing, and button stimulus
 
-## How to Run
+
